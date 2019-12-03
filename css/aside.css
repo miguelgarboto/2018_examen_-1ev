@@ -1,0 +1,17 @@
+#aside{
+  position: relative;
+  float: right;
+  bottom: 300px;
+}
+
+#bocyl, #gobiernoabierto, #sedeelectronica, #atencionciudadano, #emergencias, #meterologia{
+  width: 130px;
+  height: 60px;
+  position: relative;
+  right: 40px;
+  padding: 5px;
+}
+
+#parr1{
+  
+}
